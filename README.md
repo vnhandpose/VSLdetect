@@ -22,6 +22,7 @@ Vì đây là bản thử nghiệm, không phải bản thương mại nên cầ
 
 Mở thư mục đã tải về và chạy lệnh trên CMD (đối với window) và Terminal (đối với linux) ngay tại thư mục này:
 > pip3 install -r yolov5/requirements.txt
+
 Lệnh này nhằm cài 1 số thư viện cơ bản để khởi chạy.
 
 > python3 yolov5/detect.py --weight best.pt --conf 0.3 --img-size 416 --source 0
