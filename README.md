@@ -18,5 +18,8 @@ Vì đây là bản thử nghiệm, không phải bản thương mại nên cầ
 - Đối với hệ điều hành ***Linux***: khuyến nghị sử dụng Python 3.8 hoặc thấp hơn.
 
 > sudo apt install python3.8
+> sudo apt install python3-pip
 
+Mở thư mục đã tải về và chạy lệnh trên CMD (đối với window) và Terminal (đối với linux) ngay tại thư mục này:
+> pip3 install -r yolov5/requirements.txt
 
