@@ -17,8 +17,6 @@ Vì đây là bản thử nghiệm, không phải bản thương mại nên cầ
 - Đối với hệ điều hành ***Window***: khuyến nghị sử dụng [Python 3.7](https://www.python.org/downloads/windows/) hoặc thấp hơn.
 - Đối với hệ điều hành ***Linux***: khuyến nghị sử dụng Python 3.8 hoặc thấp hơn.
 
-```php
+'sudo apt install python3.8'
 
-sudo apt install python3.8
 
-```
