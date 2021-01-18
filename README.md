@@ -14,3 +14,6 @@ Hiện không bao gốm sản phẩm cuối cùng trong repository (kho lưu tr�
 Hiện tại chưa hỗ trợ nhận diện thời gian thực trên Google Drive.
 ### Sử dụng dữ liệu trên máy tính.
 Vì đây là bản thử nghiệm, không phải bản thương mại nên cần phải sử dụng IDE của [Python 3](https://www.python.org/downloads/) để khởi chạy.
+- Đối với hệ điều hành ***Window***: khuyến nghị sử dụng [Python 3.7](https://www.python.org/downloads/windows/) hoặc thấp hơn.
+- Đối với hệ điều hành ***Linux***: khuyến nghị sử dụng Python 3.8 hoặc thấp hơn.
+| sudo apt install python 3.8
